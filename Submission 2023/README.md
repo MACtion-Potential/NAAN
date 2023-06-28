@@ -1,1 +1,1 @@
-
+This file contains all portions of the NAAN project completed by MACtion Potential, the NeurotechX associated club at McMaster University. The file "final_code.ipynb" contains a walkthrough of all the code that we completed for this project. All other files in the folder are dependencies of this code. 
